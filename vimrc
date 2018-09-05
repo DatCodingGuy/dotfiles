@@ -65,11 +65,7 @@ Plug 'kien/ctrlp.vim'
 Plug 'MarcWeber/vim-addon-mw-utils'
 Plug 'tomtom/tlib_vim'
 Plug 'garbas/vim-snipmate'
-" Plug 'honza/vim-snippets'
-
-" I normally keep vim-snippets commented because I install it once,
-" delete all the snippets and make my own. When I update all my
-" plugins, I don't want them to be reinstalled
+Plug 'honza/vim-snippets'
 
 call plug#end()
 
