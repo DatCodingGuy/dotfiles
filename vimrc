@@ -18,8 +18,8 @@ set noswapfile
 " Set key configs to scroll faster
 noremap H 5h
 noremap L 5l
-noremap J 10<C-e)
-noremap K 10<C-y)
+noremap J 10<C-e>
+noremap K 10<C-y>
 
 " Tab settings
 set expandtab
